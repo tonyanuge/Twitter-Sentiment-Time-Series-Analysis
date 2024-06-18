@@ -6,13 +6,12 @@ The objective of this project is to perform sentiment analysis on a dataset of t
 
 Data
 The dataset used in this project is a collection of tweets with the following structure:
-Tweet ID
-Timestamp
-User ID
-Query (if any)
-Username
-Tweet text
-Key Components
+Tweet ID,
+Timestamp,
+User ID,
+Username,
+Tweet text,
+Key Components,
 The project consists of the following main steps:
 
 Data Loading and Preprocessing:
