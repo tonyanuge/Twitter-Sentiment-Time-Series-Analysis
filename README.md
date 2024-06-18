@@ -15,11 +15,10 @@ This part of the project demonstrates how to handle and process large datasets u
  Data
 
 The dataset used in this project is a collection of tweets with the following structure:
- Tweet ID
- Timestamp
- User ID
- Query (if any)
- Username
+ Tweet ID,
+ Timestamp,
+ User ID,
+ Username,
  Tweet text
 
 Note: The dataset file ProjectTweets.csv is too large to be stored directly in this repository. You can download it from [this link](https://linktoyourdataset.com/ProjectTweets.csv) and place it in the root directory of the repository.
