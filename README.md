@@ -1,13 +1,3 @@
-I'll incorporate the content from the newly uploaded notebook into the README as part of the big data analysis project. First, let's review the contents of the Big_Data_SA.ipynb notebook to understand how it integrates with the existing project. 
-
-I'll start by loading and examining the content of the new file.
-
-The Big_Data_SA.ipynb notebook appears to focus on big data processing using Apache Spark and integrating with MongoDB. This complements the sentiment analysis project by showcasing how to handle and process large datasets in a big data environment.
-
-Here is an updated README file that incorporates the content and goals of both notebooks:
-
-
-
  Twitter Sentiment Time Series Analysis and Big Data Processing
 
 This repository contains projects aimed at analyzing the sentiment of tweets over time and processing large datasets using big data technologies. The analysis is performed using Python, and the workflows are documented in Jupyter Notebooks.
